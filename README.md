@@ -44,6 +44,27 @@ In short, the expectation–maximization approach here consists of the following
 Certainly PCA is not useful for every high-dimensional dataset, but it offers a straightforward and efficient path to gaining insight into high-dimensional data.
 PCA's main weakness is that it tends to be highly affected by outliers in the data. For this reason, many robust variants of PCA have been developed, many of which act to iteratively discard data points that are poorly described by the initial components.</p>
 
+![Capture1](https://user-images.githubusercontent.com/88651007/147543835-bbd6c0a6-60e3-4048-bfe5-e568b73baf62.PNG)
+
+![Capture_2](https://user-images.githubusercontent.com/88651007/147543867-e939eeeb-3381-4bfc-9216-701a11d2200f.PNG)
+
+![Capture_3](https://user-images.githubusercontent.com/88651007/147543878-43441fa6-3a76-49a6-a010-0d99e3ca851b.PNG)
+
+![Capture_4](https://user-images.githubusercontent.com/88651007/147543894-d9845128-b314-4333-9468-77eef30cd9be.PNG)
+
+![Capture_5](https://user-images.githubusercontent.com/88651007/147543928-1c5de4de-32bf-4303-8e0a-ea88ade40e4b.PNG)
+
+![Capture_6](https://user-images.githubusercontent.com/88651007/147543949-41beb343-b150-4f3a-8ea9-504b53dc6a73.PNG)
+
+![Capture_7](https://user-images.githubusercontent.com/88651007/147543961-5f08e1fa-b173-4824-bb15-38041d6a28d4.PNG)
+
+![Capture_8](https://user-images.githubusercontent.com/88651007/147543971-3af9b596-5d3d-4b50-9fc9-0aa53442e458.PNG)
+
+![Capture_9](https://user-images.githubusercontent.com/88651007/147544175-0d1dd53f-aa9f-4b12-aed0-448960834153.PNG)
+
+![Capture_10](https://user-images.githubusercontent.com/88651007/147544183-a531630b-a984-48c2-9a89-a3ba852556ee.PNG)
+
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- CREDITS -->
