@@ -2,8 +2,7 @@
 <h1 align="center"> Zomato-Customer-Review-Sentiment-Analysis </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 <h2> :floppy_disk: Project Files Description</h2>
-<p>There are two sets of data.The first one provides the data on the 105 restaurants and the
-other is about the 10,000 reviews for these 105 restaurants, approximately 100 reviews for each restaurants.</p>
+<p>There are two sets of data.The first one is restaurant dataset that provides the data on the 105 restaurants having columns like names of the restaurants, links, timings, cuisines ets. and the other is the reviews dataset that contains the 10,000 reviews for these 105 restaurants, approximately 100 reviews for each restaurants, it also has reviewers metada (number of followers and number of reviews of the reviewer) and other columns like date and time of the review, review text etc.</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
