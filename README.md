@@ -25,6 +25,9 @@ In short, the expectation–maximization approach here consists of the following
 <p>Here the "E-step" or "Expectation step" is so-named because it involves updating our expectation of which cluster each point belongs to.</p>
 <p>The "M-step" or "Maximization step" is so-named because it involves maximizing some fitness function that defines the location of the cluster centers — in this case, that maximization is accomplished by taking a simple mean of the data in each cluster.</p>
 <p>The literature about this algorithm is vast, but can be summarized as follows: under typical circumstances, each repetition of the E-step and M-step will always result in a better estimate of the cluster characteristics.</P>
+<p align="center" width="100%">
+    <img width="40%" src="https://user-images.githubusercontent.com/88651007/147826128-8a54aa58-8221-46ff-a088-e9d0d9f76c0c.png">
+</p>
 
 <b><p>Principal Component Analysis</b></p>
 <p>PCA is fundamentally a dimensionality reduction algorithm, but it can also be useful as a tool for visualization, for noise filtering, for feature extraction and engineering, and much more.</p>
@@ -43,6 +46,9 @@ In short, the expectation–maximization approach here consists of the following
 <p>Given any high-dimensional dataset, we can start with PCA in order to visualize the relationship between points, to understand the main variance in the data, and to understand the intrinsic dimensionality.
 Certainly PCA is not useful for every high-dimensional dataset, but it offers a straightforward and efficient path to gaining insight into high-dimensional data.
 PCA's main weakness is that it tends to be highly affected by outliers in the data. For this reason, many robust variants of PCA have been developed, many of which act to iteratively discard data points that are poorly described by the initial components.</p>
+<p align="center" width="100%">
+    <img width="40%" src="https://user-images.githubusercontent.com/88651007/147826269-fd281633-5b8b-48b9-a854-5bb56391dc3f.png">
+</p>
 
 ![Capture1](https://user-images.githubusercontent.com/88651007/147543835-bbd6c0a6-60e3-4048-bfe5-e568b73baf62.PNG)
 
